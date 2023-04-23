@@ -1,0 +1,593 @@
+Country,Continent,Month,Season,Type Shark
+Mexico,North America,6,Summer,Tiger
+Brazil,South America,6,Winter,Tiger
+Costa Rica,North America,4,Spring,Tiger
+Australia,Oceania,4,Autumn,White Shark
+Maldives,Asia,4,Spring,Tiger
+South Africa,Africa,4,Autumn,White Shark
+Thailand,Asia,4,Spring,Bull
+Bahamas,North America,4,Spring,Tiger
+Bahamas,North America,4,Spring,Bull
+South Africa,Africa,4,Autumn,White Shark
+South Africa,Africa,2,Summer,Blacktip
+Australia,Oceania,2,Summer,White Shark
+Australia,Oceania,2,Summer,Bull
+Australia,Oceania,1,Summer,Bull
+New Caledonia,Oceania,1,Summer,Bull
+Australia,Oceania,1,Summer,White Shark
+Costa Rica,North America,11,Autumn,Tiger
+Costa Rica,North America,11,Autumn,Tiger
+Cuba,North America,11,Autumn,Tiger
+Australia,Oceania,10,Spring,White Shark
+Australia,Oceania,9,Spring,White Shark
+Australia,Oceania,9,Spring,White Shark
+Australia,Oceania,8,Winter,White Shark
+Egypt,Africa,8,Winter,White Shark
+South Africa,Africa,7,Winter,White Shark
+Australia,Oceania,6,Winter,White Shark
+Bahamas,North America,6,Summer,Tiger
+Australia,Oceania,4,Autumn,White Shark
+Australia,Oceania,2,Summer,Bull
+South Africa,Africa,2,Summer,Tiger
+Australia,Oceania,1,Summer,Bull
+Indonesia,Asia,1,Winter,Bull
+South Africa,Africa,12,Summer,White Shark
+Australia,Oceania,12,Summer,White Shark
+Mexico,North America,10,Autumn,White Shark
+Australia,Oceania,9,Spring,White Shark
+Australia,Oceania,7,Winter,White Shark
+Bahamas,North America,7,Summer,Bull
+South Africa,Africa,6,Winter,White Shark
+Egypt,Africa,6,Winter,Mako
+Australia,Oceania,5,Autumn,White Shark
+New Zealand,Oceania,5,Autumn,Mako
+Indonesia,Asia,4,Spring,Bull
+South Africa,Africa,4,Autumn,White Shark
+New Caledonia,Oceania,4,Autumn,Tiger
+Brazil,South America,3,Autumn,Tiger
+Brazil,South America,2,Summer,Tiger
+United Arab Emirates,Asia,1,Winter,Mako
+Australia,Oceania,1,Summer,Blacktip
+South Africa,Africa,12,Summer,White Shark
+Brazil,South America,12,Summer,Tiger
+Australia,Oceania,12,Summer,White Shark
+Bahamas,North America,12,Winter,Bull
+Australia,Oceania,11,Spring,Bull
+South Africa,Africa,10,Spring,White Shark
+Australia,Oceania,9,Spring,White Shark
+Australia,Oceania,7,Winter,White Shark
+Australia,Oceania,7,Winter,White Shark
+South Africa,Africa,7,Winter,White Shark
+Australia,Oceania,7,Winter,White Shark
+Australia,Oceania,7,Winter,White Shark
+South Africa,Africa,6,Winter,White Shark
+South Africa,Africa,6,Winter,White Shark
+Australia,Oceania,6,Winter,White Shark
+New Caledonia,Oceania,5,Autumn,Bull
+Australia,Oceania,5,Autumn,White Shark
+South Africa,Africa,5,Autumn,White Shark
+Australia,Oceania,4,Autumn,White Shark
+Australia,Oceania,6,Winter,White Shark
+South Africa,Africa,3,Autumn,White Shark
+Egypt,Africa,3,Autumn,Mako
+French Polynesia,Oceania,3,Autumn,Blacktip
+French Polynesia,Oceania,3,Autumn,Blacktip
+Australia,Oceania,1,Summer,Bull
+Bahamas,North America,1,Winter,White Shark
+Australia,Oceania,12,Summer,White Shark
+Australia,Oceania,12,Summer,Tiger
+Australia,Oceania,11,Spring,White Shark
+Australia,Oceania,10,Spring,White Shark
+Bahamas,North America,8,Summer,Bull
+South Africa,Africa,8,Winter,White Shark
+Australia,Oceania,5,Autumn,Bull
+Australia,Oceania,5,Autumn,White Shark
+Australia,Oceania,4,Autumn,White Shark
+French Polynesia,Oceania,2,Summer,Blacktip
+New Caledonia,Oceania,12,Summer,Bull
+South Africa,Africa,12,Summer,White Shark
+Australia,Oceania,11,Spring,Tiger
+Australia,Oceania,11,Spring,White Shark
+Australia,Oceania,11,Spring,White Shark
+Australia,Oceania,10,Spring,Blacktip
+Australia,Oceania,10,Spring,White Shark
+South Africa,Africa,10,Spring,White Shark
+Australia,Oceania,10,Spring,White Shark
+Bahamas,North America,8,Summer,Blacktip
+France,Europe,8,Summer,Mako
+Mexico,North America,4,Spring,Tiger
+French Polynesia,Oceania,4,Autumn,Blacktip
+Jamaica,North America,3,Spring,Tiger
+New Zealand,Oceania,2,Summer,White Shark
+Australia,Oceania,1,Summer,White Shark
+Australia,Oceania,12,Summer,Bull
+South Africa,Africa,12,Summer,Tiger
+Australia,Oceania,12,Summer,Tiger
+Australia,Oceania,12,Summer,Tiger
+Tonga,Oceania,9,Spring,Bull
+Australia,Oceania,7,Winter,White Shark
+Australia,Oceania,7,Winter,White Shark
+Australia,Oceania,6,Winter,White Shark
+Mexico,North America,5,Spring,Bull
+South Africa,Africa,4,Autumn,White Shark
+Australia,Oceania,4,Autumn,White Shark
+Australia,Oceania,3,Autumn,White Shark
+Australia,Oceania,3,Autumn,White Shark
+Australia,Oceania,3,Autumn,Bull
+South Africa,Africa,2,Summer,White Shark
+Australia,Oceania,1,Summer,Tiger
+Australia,Oceania,1,Summer,White Shark
+South Africa,Africa,1,Summer,Bull
+Australia,Oceania,1,Summer,Tiger
+Australia,Oceania,12,Summer,White Shark
+Australia,Oceania,10,Spring,White Shark
+South Africa,Africa,9,Spring,White Shark
+Papua New Guinea,Oceania,9,Spring,Tiger
+Australia,Oceania,9,Spring,White Shark
+South Africa,Africa,8,Winter,White Shark
+Seychelles,Africa,8,Winter,Bull
+South Africa,Africa,7,Winter,White Shark
+South Africa,Africa,6,Winter,Bull
+Malaysia,Asia,6,Summer,Blacktip
+South Africa,Africa,5,Autumn,White Shark
+New Caledonia,Oceania,5,Autumn,Tiger
+Indonesia,Asia,4,Spring,Bull
+Mexico,North America,3,Spring,Bull
+Australia,Oceania,3,Autumn,Bull
+Australia,Oceania,2,Summer,White Shark
+Australia,Oceania,1,Summer,White Shark
+Egypt,Africa,12,Summer,White Shark
+Egypt,Africa,12,Summer,Mako
+Egypt,Africa,12,Summer,Mako
+Egypt,Africa,11,Spring,White Shark
+Egypt,Africa,11,Spring,White Shark
+Australia,Oceania,10,Spring,White Shark
+Australia,Oceania,10,Spring,Bull
+South Africa,Africa,9,Spring,White Shark
+Australia,Oceania,8,Winter,White Shark
+Egypt,Africa,4,Autumn,White Shark
+Australia,Oceania,2,Summer,White Shark
+South Africa,Africa,1,Summer,White Shark
+Australia,Oceania,1,Summer,White Shark
+Australia,Oceania,12,Summer,Bull
+New Zealand,Oceania,12,Summer,White Shark
+Australia,Oceania,12,Summer,White Shark
+Australia,Oceania,10,Spring,White Shark
+South Africa,Africa,8,Winter,White Shark
+South Africa,Africa,8,Winter,White Shark
+Egypt,Africa,6,Winter,White Shark
+Egypt,Africa,6,Winter,White Shark
+Egypt,Africa,6,Winter,White Shark
+Guam,Oceania,5,Autumn,Blacktip
+Australia,Oceania,2,Summer,White Shark
+Australia,Oceania,2,Summer,Bull
+Australia,Oceania,2,Summer,White Shark
+Cuba,North America,1,Winter,Bull
+South Africa,Africa,1,Summer,Tiger
+Australia,Oceania,1,Summer,White Shark
+Australia,Oceania,1,Summer,White Shark
+Australia,Oceania,1,Summer,White Shark
+Australia,Oceania,12,Summer,White Shark
+Australia,Oceania,12,Summer,White Shark
+Australia,Oceania,12,Summer,White Shark
+Egypt,Africa,11,Spring,White Shark
+Croatia,Europe,10,Autumn,White Shark
+Australia,Oceania,7,Winter,White Shark
+Egypt,Africa,7,Winter,White Shark
+Bahamas,North America,6,Summer,Bull
+South Africa,Africa,6,Winter,White Shark
+Brazil,South America,6,Winter,Bull
+Bahamas,North America,5,Spring,Tiger
+Australia,Oceania,5,Autumn,White Shark
+New Caledonia,Oceania,5,Autumn,Bull
+Mexico,North America,4,Spring,Tiger
+New Caledonia,Oceania,4,Autumn,Bull
+Australia,Oceania,4,Autumn,Tiger
+Australia,Oceania,4,Autumn,Bull
+Bahamas,North America,2,Winter,Bull
+South Africa,Africa,1,Summer,Blacktip
+Australia,Oceania,1,Summer,Mako
+South Africa,Africa,11,Spring,White Shark
+Australia,Oceania,10,Spring,White Shark
+New Caledonia,Oceania,9,Spring,Tiger
+Egypt,Africa,9,Spring,White Shark
+Bahamas,North America,7,Summer,Bull
+New Caledonia,Oceania,4,Autumn,Tiger
+New Caledonia,Oceania,1,Summer,Tiger
+Australia,Oceania,1,Summer,White Shark
+South Africa,Africa,1,Summer,Tiger
+Australia,Oceania,12,Summer,White Shark
+South Africa,Africa,11,Spring,Bull
+South Africa,Africa,9,Spring,White Shark
+South Africa,Africa,8,Winter,White Shark
+South Africa,Africa,7,Winter,White Shark
+Brazil,South America,7,Winter,Tiger
+Australia,Oceania,6,Winter,White Shark
+Brazil,South America,4,Autumn,Tiger
+Fiji,Oceania,3,Autumn,Tiger
+Australia,Oceania,2,Summer,White Shark
+Tonga,Oceania,2,Summer,Tiger
+Australia,Oceania,1,Summer,White Shark
+Australia,Oceania,1,Summer,Bull
+Australia,Oceania,12,Summer,White Shark
+Australia,Oceania,11,Spring,White Shark
+South Africa,Africa,10,Spring,White Shark
+Australia,Oceania,9,Spring,White Shark
+Australia,Oceania,9,Spring,White Shark
+Australia,Oceania,8,Winter,White Shark
+South Africa,Africa,6,Winter,White Shark
+Australia,Oceania,5,Autumn,Blacktip
+Australia,Oceania,4,Autumn,Mako
+Australia,Oceania,3,Autumn,White Shark
+Australia,Oceania,2,Summer,Bull
+New Zealand,Oceania,1,Summer,White Shark
+Australia,Oceania,12,Summer,White Shark
+Australia,Oceania,12,Summer,Bull
+South Africa,Africa,11,Spring,White Shark
+Cuba,North America,10,Autumn,Bull
+South Africa,Africa,10,Spring,White Shark
+Australia,Oceania,9,Spring,Tiger
+Brazil,South America,8,Winter,Tiger
+South Africa,Africa,6,Winter,White Shark
+Brazil,South America,5,Autumn,Bull
+New Zealand,Oceania,4,Autumn,White Shark
+South Africa,Africa,4,Autumn,White Shark
+Brazil,South America,3,Autumn,Bull
+Australia,Oceania,1,Summer,White Shark
+Uruguay,South America,1,Summer,Tiger
+South Africa,Africa,12,Summer,Mako
+South Africa,Africa,11,Spring,Tiger
+Egypt,Africa,11,Spring,White Shark
+South Africa,Africa,11,Spring,White Shark
+South Africa,Africa,9,Spring,White Shark
+South Africa,Africa,8,Winter,White Shark
+Bahamas,North America,7,Summer,Bull
+Brazil,South America,4,Autumn,Bull
+New Zealand,Oceania,2,Summer,White Shark
+Australia,Oceania,2,Summer,Bull
+Costa Rica,North America,1,Winter,Bull
+South Africa,Africa,12,Summer,White Shark
+Australia,Oceania,12,Summer,Bull
+Brazil,South America,10,Spring,Tiger
+Tonga,Oceania,9,Spring,Tiger
+Brazil,South America,9,Spring,Tiger
+South Africa,Africa,9,Spring,White Shark
+Brazil,South America,7,Winter,Tiger
+Australia,Oceania,4,Autumn,White Shark
+Bahamas,North America,4,Spring,Bull
+Australia,Oceania,1,Summer,Tiger
+South Africa,Africa,10,Spring,Mako
+Mexico,North America,9,Autumn,Tiger
+Australia,Oceania,9,Spring,White Shark
+United Kingdom,Europe,9,Autumn,Tiger
+Bahamas,North America,8,Summer,Bull
+Bahamas,North America,8,Summer,Bull
+South Africa,Africa,5,Autumn,White Shark
+South Africa,Africa,4,Autumn,White Shark
+Australia,Oceania,2,Summer,White Shark
+Australia,Oceania,1,Summer,White Shark
+New Zealand,Oceania,1,Summer,White Shark
+Australia,Oceania,12,Summer,White Shark
+Australia,Oceania,11,Spring,Tiger
+Australia,Oceania,11,Spring,White Shark
+Australia,Oceania,11,Spring,White Shark
+Australia,Oceania,10,Spring,White Shark
+Australia,Oceania,9,Spring,White Shark
+Australia,Oceania,9,Spring,White Shark
+South Africa,Africa,9,Spring,White Shark
+New Zealand,Oceania,6,Winter,Mako
+New Caledonia,Oceania,5,Autumn,Tiger
+New Caledonia,Oceania,3,Autumn,Tiger
+Australia,Oceania,3,Autumn,Tiger
+South Africa,Africa,2,Summer,White Shark
+Brazil,South America,12,Summer,White Shark
+Italy,Europe,9,Autumn,White Shark
+Bahamas,North America,8,Summer,Bull
+South Africa,Africa,7,Winter,White Shark
+South Africa,Africa,7,Winter,White Shark
+South Africa,Africa,7,Winter,White Shark
+Australia,Oceania,5,Autumn,White Shark
+Brazil,South America,5,Autumn,Tiger
+New Zealand,Oceania,3,Autumn,Mako
+Australia,Oceania,2,Summer,Tiger
+Mauritius,Africa,1,Summer,Bull
+Brazil,South America,11,Spring,White Shark
+South Africa,Africa,8,Winter,Tiger
+South Africa,Africa,8,Winter,White Shark
+South Africa,Africa,8,Winter,White Shark
+Australia,Oceania,6,Winter,White Shark
+South Africa,Africa,6,Winter,White Shark
+South Africa,Africa,5,Autumn,White Shark
+South Africa,Africa,5,Autumn,White Shark
+South Africa,Africa,3,Autumn,White Shark
+South Africa,Africa,12,Summer,White Shark
+Australia,Oceania,11,Spring,White Shark
+Australia,Oceania,10,Spring,White Shark
+Mexico,North America,8,Summer,Tiger
+Egypt,Africa,8,Winter,White Shark
+South Africa,Africa,7,Winter,White Shark
+Fiji,Oceania,6,Winter,Tiger
+Brazil,South America,4,Autumn,White Shark
+Australia,Oceania,2,Summer,Tiger
+Australia,Oceania,1,Summer,Tiger
+Australia,Oceania,1,Summer,White Shark
+South Africa,Africa,12,Summer,White Shark
+New Zealand,Oceania,9,Spring,White Shark
+South Africa,Africa,9,Spring,White Shark
+Australia,Oceania,6,Winter,White Shark
+South Africa,Africa,5,Autumn,White Shark
+Australia,Oceania,3,Autumn,Tiger
+Australia,Oceania,1,Summer,Mako
+New Zealand,Oceania,11,Spring,White Shark
+Australia,Oceania,9,Spring,White Shark
+Hong Kong,Asia,6,Summer,Tiger
+Japan,Asia,4,Spring,White Shark
+South Africa,Africa,1,Summer,Tiger
+South Africa,Africa,12,Summer,White Shark
+South Africa,Africa,7,Winter,White Shark
+South Africa,Africa,7,Winter,White Shark
+South Africa,Africa,4,Autumn,White Shark
+Chile,South America,3,Autumn,White Shark
+Chile,South America,3,Autumn,White Shark
+South Africa,Africa,2,Summer,White Shark
+Australia,Oceania,11,Spring,Tiger
+South Africa,Africa,9,Spring,White Shark
+El Salvador,North America,9,Autumn,White Shark
+Bahamas,North America,8,Summer,Blacktip
+Australia,Oceania,8,Winter,White Shark
+South Africa,Africa,7,Winter,White Shark
+Australia,Oceania,6,Winter,White Shark
+Australia,Oceania,6,Winter,White Shark
+Japan,Asia,3,Spring,White Shark
+Australia,Oceania,10,Spring,White Shark
+Bahamas,North America,8,Summer,Blacktip
+Australia,Oceania,8,Winter,White Shark
+Japan,Asia,6,Summer,White Shark
+New Zealand,Oceania,4,Autumn,White Shark
+Japan,Asia,3,Spring,White Shark
+South Africa,Africa,1,Summer,Blacktip
+Australia,Oceania,9,Spring,White Shark
+Italy,Europe,7,Summer,White Shark
+Hong Kong,Asia,6,Summer,Tiger
+South Africa,Africa,5,Autumn,White Shark
+South Africa,Africa,2,Summer,White Shark
+South Africa,Africa,9,Spring,White Shark
+South Africa,Africa,6,Winter,White Shark
+South Africa,Africa,5,Autumn,White Shark
+South Africa,Africa,4,Autumn,White Shark
+Australia,Oceania,4,Autumn,Tiger
+Australia,Oceania,11,Spring,White Shark
+South Africa,Africa,11,Spring,White Shark
+Australia,Oceania,10,Spring,White Shark
+Australia,Oceania,10,Spring,White Shark
+South Africa,Africa,9,Spring,White Shark
+South Africa,Africa,8,Winter,White Shark
+South Africa,Africa,7,Winter,White Shark
+Italy,Europe,6,Summer,White Shark
+South Africa,Africa,6,Winter,White Shark
+South Africa,Africa,6,Winter,White Shark
+Australia,Oceania,3,Autumn,White Shark
+Australia,Oceania,3,Autumn,Tiger
+Italy,Europe,2,Winter,White Shark
+Australia,Oceania,1,Summer,Tiger
+Chile,South America,12,Summer,White Shark
+South Africa,Africa,6,Winter,White Shark
+Australia,Oceania,2,Summer,Mako
+Fiji,Oceania,2,Summer,Tiger
+South Africa,Africa,10,Spring,White Shark
+Australia,Oceania,9,Spring,White Shark
+South Africa,Africa,9,Spring,White Shark
+South Africa,Africa,3,Autumn,White Shark
+South Africa,Africa,1,Summer,White Shark
+South Africa,Africa,12,Summer,White Shark
+Australia,Oceania,7,Winter,White Shark
+Spain,Europe,3,Spring,White Shark
+South Africa,Africa,2,Summer,White Shark
+South Africa,Africa,10,Spring,White Shark
+Australia,Oceania,3,Autumn,White Shark
+South Africa,Africa,1,Summer,White Shark
+South Africa,Africa,1,Summer,White Shark
+Italy,Europe,12,Winter,White Shark
+Australia,Oceania,11,Spring,Tiger
+Mexico,North America,9,Autumn,White Shark
+South Africa,Africa,6,Winter,White Shark
+Australia,Oceania,2,Summer,White Shark
+Australia,Oceania,12,Summer,White Shark
+South Africa,Africa,8,Winter,White Shark
+Australia,Oceania,7,Winter,Tiger
+Australia,Oceania,7,Winter,Tiger
+Australia,Oceania,7,Winter,Tiger
+Bahamas,North America,6,Summer,Blacktip
+South Africa,Africa,3,Autumn,Blacktip
+South Africa,Africa,1,Summer,White Shark
+South Africa,Africa,9,Spring,White Shark
+South Africa,Africa,7,Winter,White Shark
+South Africa,Africa,6,Winter,White Shark
+Australia,Oceania,2,Summer,White Shark
+South Africa,Africa,10,Spring,White Shark
+Bahamas,North America,8,Summer,Mako
+South Africa,Africa,5,Autumn,Tiger
+Chile,South America,3,Autumn,White Shark
+South Africa,Africa,2,Summer,Blacktip
+South Africa,Africa,3,Autumn,Tiger
+South Africa,Africa,1,Summer,White Shark
+Chile,South America,1,Summer,White Shark
+Portugal,Europe,12,Winter,White Shark
+South Africa,Africa,11,Spring,White Shark
+South Africa,Africa,12,Summer,White Shark
+South Africa,Africa,9,Spring,White Shark
+Italy,Europe,9,Autumn,White Shark
+South Africa,Africa,2,Summer,White Shark
+South Africa,Africa,1,Summer,Blacktip
+South Africa,Africa,12,Summer,Tiger
+South Africa,Africa,10,Spring,White Shark
+Australia,Oceania,8,Winter,White Shark
+South Africa,Africa,8,Winter,White Shark
+South Africa,Africa,5,Autumn,Mako
+South Africa,Africa,11,Spring,White Shark
+South Africa,Africa,10,Spring,White Shark
+South Africa,Africa,10,Spring,White Shark
+South Africa,Africa,5,Autumn,Mako
+South Africa,Africa,3,Autumn,White Shark
+South Africa,Africa,3,Autumn,White Shark
+South Africa,Africa,2,Summer,White Shark
+South Africa,Africa,1,Summer,White Shark
+South Africa,Africa,8,Winter,White Shark
+Australia,Oceania,7,Winter,White Shark
+South Africa,Africa,4,Autumn,White Shark
+Australia,Oceania,2,Summer,White Shark
+Israel,Asia,9,Autumn,Mako
+Croatia,Europe,8,Summer,White Shark
+Australia,Oceania,1,Summer,White Shark
+Bahamas,North America,9,Autumn,Bull
+Mexico,North America,9,Autumn,White Shark
+South Africa,Africa,12,Summer,White Shark
+Australia,Oceania,8,Winter,White Shark
+Mozambique,Africa,1,Summer,White Shark
+South Africa,Africa,12,Summer,White Shark
+Croatia,Europe,9,Autumn,White Shark
+South Africa,Africa,6,Winter,White Shark
+South Africa,Africa,4,Autumn,White Shark
+New Zealand,Oceania,3,Autumn,White Shark
+Australia,Oceania,3,Autumn,Mako
+New Zealand,Oceania,12,Summer,White Shark
+Australia,Oceania,12,Summer,White Shark
+New Zealand,Oceania,9,Spring,White Shark
+Australia,Oceania,8,Winter,White Shark
+South Africa,Africa,3,Autumn,White Shark
+New Zealand,Oceania,3,Autumn,White Shark
+South Africa,Africa,1,Summer,White Shark
+South Africa,Africa,1,Summer,Tiger
+Australia,Oceania,9,Spring,Mako
+Croatia,Europe,8,Summer,White Shark
+Australia,Oceania,5,Autumn,White Shark
+Australia,Oceania,3,Autumn,White Shark
+Australia,Oceania,2,Summer,White Shark
+Palau,Oceania,4,Autumn,Tiger
+South Africa,Africa,1,Summer,White Shark
+Australia,Oceania,11,Spring,White Shark
+Australia,Oceania,11,Spring,White Shark
+Fiji,Oceania,5,Autumn,Tiger
+New Zealand,Oceania,2,Summer,White Shark
+South Africa,Africa,2,Summer,White Shark
+New Zealand,Oceania,2,Summer,White Shark
+South Africa,Africa,1,Summer,White Shark
+South Africa,Africa,12,Summer,White Shark
+Australia,Oceania,12,Summer,White Shark
+Papua New Guinea,Oceania,11,Spring,Tiger
+Fiji,Oceania,11,Spring,Tiger
+Australia,Oceania,11,Spring,White Shark
+Chile,South America,9,Spring,White Shark
+Greece,Europe,6,Summer,White Shark
+Fiji,Oceania,2,Summer,White Shark
+Australia,Oceania,1,Summer,Bull
+Australia,Oceania,1,Summer,White Shark
+Australia,Oceania,12,Summer,White Shark
+South Africa,Africa,2,Summer,White Shark
+Papua New Guinea,Oceania,1,Summer,White Shark
+Australia,Oceania,1,Summer,White Shark
+Croatia,Europe,9,Autumn,White Shark
+Bermuda,North America,8,Summer,Blacktip
+Australia,Oceania,7,Winter,White Shark
+Australia,Oceania,3,Autumn,White Shark
+South Africa,Africa,1,Summer,White Shark
+South Africa,Africa,1,Summer,White Shark
+South Africa,Africa,12,Summer,White Shark
+Australia,Oceania,12,Summer,Bull
+South Africa,Africa,10,Spring,White Shark
+New Zealand,Oceania,6,Winter,White Shark
+South Africa,Africa,4,Autumn,White Shark
+Australia,Oceania,4,Autumn,White Shark
+Australia,Oceania,4,Autumn,Tiger
+Australia,Oceania,4,Autumn,White Shark
+Papua New Guinea,Oceania,2,Summer,Tiger
+Australia,Oceania,2,Summer,Tiger
+Australia,Oceania,1,Summer,Bull
+Australia,Oceania,12,Summer,Tiger
+New Zealand,Oceania,12,Summer,Mako
+South Africa,Africa,5,Autumn,White Shark
+Australia,Oceania,4,Autumn,Tiger
+Australia,Oceania,2,Summer,Mako
+South Africa,Africa,1,Summer,White Shark
+Turkey,Asia,12,Winter,White Shark
+American Samoa,Oceania,12,Summer,Tiger
+South Africa,Africa,1,Summer,White Shark
+Marshall Islands,Oceania,9,Spring,Mako
+Papua New Guinea,Oceania,12,Summer,Tiger
+New Zealand,Oceania,12,Summer,Mako
+South Africa,Africa,10,Spring,White Shark
+Malta,Europe,7,Summer,White Shark
+Italy,Europe,3,Spring,White Shark
+Croatia,Europe,8,Summer,White Shark
+Montenegro,Europe,7,Summer,White Shark
+Australia,Oceania,2,Summer,White Shark
+Croatia,Europe,10,Autumn,White Shark
+Argentina,South America,1,Summer,White Shark
+Canada,North America,7,Summer,White Shark
+Australia,Oceania,4,Autumn,White Shark
+South Africa,Africa,11,Spring,White Shark
+South Africa,Africa,11,Spring,White Shark
+Greece,Europe,8,Summer,White Shark
+Greece,Europe,8,Summer,White Shark
+Australia,Oceania,11,Spring,White Shark
+Italy,Europe,5,Spring,White Shark
+South Africa,Africa,2,Summer,White Shark
+Australia,Oceania,1,Summer,White Shark
+Australia,Oceania,12,Summer,Tiger
+Australia,Oceania,6,Winter,Tiger
+South Africa,Africa,3,Autumn,Blacktip
+Australia,Oceania,2,Summer,White Shark
+Panama,North America,5,Spring,White Shark
+Panama,North America,9,Autumn,White Shark
+Australia,Oceania,6,Winter,White Shark
+Australia,Oceania,12,Summer,Bull
+South Africa,Africa,11,Spring,White Shark
+South Africa,Africa,11,Spring,White Shark
+Australia,Oceania,9,Spring,Tiger
+Australia,Oceania,1,Summer,Bull
+South Africa,Africa,3,Autumn,White Shark
+South Africa,Africa,2,Summer,White Shark
+Australia,Oceania,10,Spring,Tiger
+Nicaragua,North America,6,Summer,Bull
+Iraq,Asia,5,Spring,Bull
+Australia,Oceania,1,Summer,Tiger
+Australia,Oceania,10,Spring,Tiger
+Australia,Oceania,10,Spring,Tiger
+Australia,Oceania,8,Winter,Tiger
+Australia,Oceania,2,Summer,White Shark
+Australia,Oceania,12,Summer,White Shark
+Australia,Oceania,8,Winter,Tiger
+Australia,Oceania,6,Winter,Tiger
+Australia,Oceania,4,Autumn,Tiger
+Australia,Oceania,2,Summer,White Shark
+Australia,Oceania,1,Summer,White Shark
+South Africa,Africa,5,Autumn,White Shark
+Australia,Oceania,3,Autumn,Tiger
+Australia,Oceania,3,Autumn,White Shark
+Australia,Oceania,3,Autumn,White Shark
+Australia,Oceania,1,Summer,Tiger
+Australia,Oceania,12,Summer,Tiger
+Italy,Europe,8,Summer,White Shark
+Croatia,Europe,8,Summer,White Shark
+Australia,Oceania,2,Summer,Tiger
+Australia,Oceania,11,Spring,Tiger
+Australia,Oceania,11,Spring,Tiger
+Australia,Oceania,10,Spring,Mako
+Canada,North America,7,Summer,White Shark
+Australia,Oceania,2,Summer,White Shark
+South Africa,Africa,1,Summer,White Shark
+Australia,Oceania,12,Summer,Tiger
+South Africa,Africa,12,Summer,White Shark
+Italy,Europe,7,Summer,White Shark
+Australia,Oceania,3,Autumn,White Shark
+Australia,Oceania,11,Spring,Tiger
+South Africa,Africa,5,Autumn,White Shark
+Australia,Oceania,3,Autumn,White Shark
+Australia,Oceania,2,Summer,White Shark
+Australia,Oceania,12,Summer,Bull
+Malta,Europe,3,Spring,White Shark
+Egypt,Africa,8,Winter,Tiger
+South Africa,Africa,7,Winter,White Shark
+Australia,Oceania,11,Spring,Bull
+Italy,Europe,9,Autumn,White Shark
+South Africa,Africa,2,Summer,White Shark
