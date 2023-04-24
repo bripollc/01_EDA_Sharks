@@ -1,5 +1,5 @@
 
-! [logo ironhack] (https://www.emagister.com/assets/es/logos/centro/id/136150/size/l.jpg)
+! [logo ironhack] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.emagister.com%2Fux-ui-design-bootcamp-cursos-3729726.htm&psig=AOvVaw3rOwF3pHA--YEN6P_eV18x&ust=1682437347264000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiD09Xtwv4CFQAAAAAdAAAAABAD)
 
 # Shark Attacks Data Cleaning
 
