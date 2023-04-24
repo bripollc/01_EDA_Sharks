@@ -1,9 +1,9 @@
 
-! [logo ironhack](https://www.emagister.com/assets/es/logos/centro/id/136150/size/l.jpg)
+![logo ironhack](https://www.emagister.com/assets/es/logos/centro/id/136150/size/l.jpg)
 
 
 
-<img src="https://www.emagister.com/assets/es/logos/centro/id/136150/size/l.jpg" alt="logo ironhack" style="width:200px;height:200px;">
+<img src="https://www.emagister.com/assets/es/logos/centro/id/136150/size/l.jpg" alt="logo ironhack" style="width:150px;height:200px;">
 
 # Shark Attacks Data Cleaning
 
