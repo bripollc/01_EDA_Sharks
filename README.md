@@ -3,7 +3,7 @@
 
 
 
-<img src="https://www.emagister.com/assets/es/logos/centro/id/136150/size/l.jpg" alt="logo ironhack" style="width:150px;height:200px;">
+<img src="https://www.emagister.com/assets/es/logos/centro/id/136150/size/l.jpg" alt="logo ironhack" style="width:300px;height:200px;">
 
 # Shark Attacks Data Cleaning
 
