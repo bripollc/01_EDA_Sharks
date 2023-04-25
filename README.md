@@ -13,7 +13,6 @@ The "Global Shark Attacks" dataset has been imported from Kaggle and includes a 
 
 ## HIPOTHESIS
 * hypothesis 1: Sharks attack equally in the northern hemisphere and in the southern hemisphere.
-![shark](images/hip1.png)
 * hypothesis 2: Australia is the continent with the highest number of shark attacks.
 * hypothesis 3: More cases of attacks are recorded in summer than in other seasons.
 
@@ -22,3 +21,12 @@ The "Global Shark Attacks" dataset has been imported from Kaggle and includes a 
 * CLEAN: cleaning of the values that are not of interest for our analysis.
 * TRANSFORM: apply various methods to modify existing columns and create new ones with information.
 * VISUALIZE: visually represent the extracted data by means of graphs in order to contrast the hypotheses.
+
+
+!/Users/begui/Desktop/Ironhack/projects/01_EDA_Sharks/images/hip1.png
+![myimage1](/Users/begui/Desktop/Ironhack/projects/01_EDA_Sharks/images/hip1.png)
+![myimage1](images/hip1.png)
+(images/hip1.png)
+
+
+
