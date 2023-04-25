@@ -22,11 +22,3 @@ The "Global Shark Attacks" dataset has been imported from Kaggle and includes a 
 * TRANSFORM: apply various methods to modify existing columns and create new ones with information.
 * VISUALIZE: visually represent the extracted data by means of graphs in order to contrast the hypotheses.
 
-
-!/Users/begui/Desktop/Ironhack/projects/01_EDA_Sharks/images/hip1.png
-![myimage1](/Users/begui/Desktop/Ironhack/projects/01_EDA_Sharks/images/hip1.png)
-![myimage1](images/hip1.png)
-(images/hip1.png)
-
-
-
